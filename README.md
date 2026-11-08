@@ -86,3 +86,4 @@ There is a lot that can happen between primary school and GCSEs and individual c
 
 The first thing that would need to be established is that there is a correlation between primary-school work and GCSEs. The most comprehensive data set to use to try and do that would probably be to look at the relationships between pupils' SATs scores and their subsequent GCSE results. If you can establish a relationship between the two, the analysis would be strengthened by being able to normalise it for pupil demographic characteristics to make sure that the effect being observed is statistiscally significant. 
 
+Claude transcript can be found [Here](claude/claude-session-export.txt)
